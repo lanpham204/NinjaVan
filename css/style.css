@@ -65,8 +65,8 @@ background-color: rgb(168, 0, 42);
 }
 .slider-backgournd {
     background-repeat: no-repeat;
-    background-size: 95% ;
-    background-image: url('/assets/img/PC-ninjavanco.webp');
+    background-size: 100% 80% ;
+    background-image: url('https://www.ninjavan.co/static/28fd3712806e92bb15a498848a1ed9df/407a9/imgonline-com-ua-CompressToSize-oHHwLYmmZwohQ.webp');
     line-height: 24px;
     padding-bottom: 500px;
     position: relative;
