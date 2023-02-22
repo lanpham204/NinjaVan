@@ -66,7 +66,7 @@ background-color: rgb(168, 0, 42);
 .slider-backgournd {
     background-repeat: no-repeat;
     background-size: 95% ;
-    background-image: url('/ASS/assets/img/PC-ninjavanco.webp');
+    background-image: url('/assets/img/PC-ninjavanco.webp');
     line-height: 24px;
     padding-bottom: 500px;
     position: relative;
@@ -230,9 +230,7 @@ background-color: rgb(168, 0, 42);
     background-color: rgba(35, 31, 32, 0.7);
     cursor: pointer;
 }
-#content {
 
-}
 #content .content1 {
     max-width: 100%;
     width: 564px;
@@ -427,9 +425,7 @@ background-color: rgb(168, 0, 42);
 .footer-menu li {
     display: inline-block;
 }
-.footer-country {
-  
-}
+
 #select-language,
 #select-country {
     height: 54px;
